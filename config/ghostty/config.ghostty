@@ -1,0 +1,10 @@
+# aesthetics
+background-opacity = 0.83
+background-blur=16
+background=#000000
+
+# typography
+font-size=16
+font-thicken=true
+font-thicken-strength=1
+adjust-cell-height=1
