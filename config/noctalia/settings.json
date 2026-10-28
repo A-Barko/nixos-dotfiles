@@ -415,7 +415,7 @@
         "showScreenCorners": false,
         "showSessionButtonsOnLockScreen": true,
         "smoothScrollEnabled": true,
-        "telemetryEnabled": true
+        "telemetryEnabled": false
     },
     "hooks": {
         "colorGeneration": "",
@@ -623,7 +623,7 @@
     },
     "wallpaper": {
         "automationEnabled": false,
-        "directory": "/home/orca/Downloads",
+        "directory": "/home/barko/Downloads",
         "enableMultiMonitorDirectories": false,
         "enabled": true,
         "favorites": [
@@ -657,7 +657,7 @@
         "useOriginalImages": false,
         "useSolidColor": false,
         "useWallhaven": false,
-        "viewMode": "browse",
+        "viewMode": "recursive",
         "wallhavenApiKey": "",
         "wallhavenCategories": "111",
         "wallhavenOrder": "desc",

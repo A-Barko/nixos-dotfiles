@@ -55,7 +55,7 @@ in
       java-language-server
       lua-language-server
       unzip
-      ltspice
+      # ltspice
       spotify
       slack
       chromium
