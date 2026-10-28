@@ -11,8 +11,8 @@ let
     };
 in
 {
-    home.username = "orca";
-    home.homeDirectory = "/home/orca";
+    home.username = "barko";
+    home.homeDirectory = "/home/barko";
     programs.git = {
 	enable = true;
 	settings = {

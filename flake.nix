@@ -11,11 +11,10 @@
 	
     };
 
-    outputs = { self, nixpkgs, home-manager, zephyr-nix, ... }@inputs: 
+    outputs = { self, nixpkgs, home-manager, ... }@inputs: 
         let
             system = "x86_64-linux";
 	    pkgs = nixpkgs.legacyPackages.${system};
-	    zephyr = zephyr-nix.packages.${system};
         in
         {
             nixosConfigurations = {

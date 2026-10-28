@@ -19,7 +19,7 @@
 
   boot.kernelPackages = pkgs.linuxPackages_latest;
 
-  networking.hostName = "barkopc"; # Define your hostname.
+  networking.hostName = "twinkpad"; # Define your hostname.
 
   networking.networkmanager.enable = true;
 
