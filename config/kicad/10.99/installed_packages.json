@@ -1,0 +1,660 @@
+{
+    "packages": [
+        {
+            "current_version": "0.1",
+            "install_timestamp": 1792338226,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://2231puppy.tech"
+                    },
+                    "name": "2231puppy"
+                },
+                "description": "Purple KiCad theme. Forked from Dracula, it's dark. Try it out today!",
+                "description_full": "Vampires can't stand light. I've also heard rumors that they love pink and purple. Put those two things together, and you get a dark purple theme with pink highlights! This project is a fork of the official Dracula theme, with added PCM support. The icon used in this package is a modified version of an icon that uses the CC-BY-3.0 license. That license can be found here: https://creativecommons.org/licenses/by/3.0/ The original work can be found here: https://game-icons.net/1x1/delapouite/vampire-dracula.html",
+                "identifier": "com.github.2231puppy.kicad-vampire",
+                "license": "MIT",
+                "name": "Vampire",
+                "resources": {
+                    "homepage": "https://github.com/2231puppy/kicad-vampire"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "8f6ebfa20b7366eba46d751dbd696ddd394aa40be654e5e849ff9b5d04844767",
+                        "download_size": 7088,
+                        "download_url": "https://github.com/2231puppy/kicad-vampire/releases/download/0.1/kicad-vampire.zip",
+                        "install_size": 15093,
+                        "kicad_version": "7.0",
+                        "status": "testing",
+                        "version": "0.1"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "0.5",
+            "install_timestamp": 1791796189,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://adamws.github.io"
+                    },
+                    "name": "adamws"
+                },
+                "description": "Add vias using various patterns",
+                "description_full": "Add vias using various patterns",
+                "identifier": "com.github.adamws.kicad-via-patterns",
+                "license": "MIT",
+                "name": "Via Patterns",
+                "resources": {
+                    "Bug Tracker": "https://github.com/adamws/kicad-via-patterns/issues",
+                    "Homepage": "https://github.com/adamws/kicad-via-patterns"
+                },
+                "type": "plugin",
+                "versions": [
+                    {
+                        "download_sha256": "30cbc2d22803cd466fa2d2a75cb082dfe07b0b0a9a07fd23845807bc99765748",
+                        "download_size": 34092,
+                        "download_url": "https://github.com/adamws/kicad-via-patterns/releases/download/v0.5/kicad_via_patterns-0.5.zip",
+                        "install_size": 32512,
+                        "kicad_version": "9.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "0.5"
+                    },
+                    {
+                        "download_sha256": "d076bda876e75134dea5a23e4cd770d831d1d4bea78cdbd0d83337bb3a02b69e",
+                        "download_size": 30807,
+                        "download_url": "https://github.com/adamws/kicad-via-patterns/releases/download/v0.4/kicad_via_patterns-0.4.zip",
+                        "install_size": 29765,
+                        "kicad_version": "7.0",
+                        "status": "stable",
+                        "version": "0.4"
+                    },
+                    {
+                        "download_sha256": "2481bf1af471876d89388f62ed79362ce4f1c9d16cdb686a61872477193587c7",
+                        "download_size": 30841,
+                        "download_url": "https://github.com/adamws/kicad-via-patterns/releases/download/v0.3/kicad_via_patterns-0.3.zip",
+                        "install_size": 29799,
+                        "kicad_version": "7.0",
+                        "kicad_version_max": "9.0.8",
+                        "status": "stable",
+                        "version": "0.3"
+                    },
+                    {
+                        "download_sha256": "926407d5d1b9a7188f749cd06d37bc95725ca639ca20eee0767170bb8d075697",
+                        "download_size": 28249,
+                        "download_url": "https://github.com/adamws/kicad-via-patterns/releases/download/v0.2/kicad_via_patterns-0.2.zip",
+                        "install_size": 27207,
+                        "kicad_version": "7.0",
+                        "kicad_version_max": "9.0.8",
+                        "status": "stable",
+                        "version": "0.2"
+                    },
+                    {
+                        "download_sha256": "e2455b68bf279861c76314c72a30561e138e5254f7e6f83ae96be99da73dd3aa",
+                        "download_size": 22873,
+                        "download_url": "https://github.com/adamws/kicad-via-patterns/releases/download/v0.1/kicad_via_patterns-0.1.zip",
+                        "install_size": 21831,
+                        "kicad_version": "7.0",
+                        "kicad_version_max": "9.0.8",
+                        "status": "development",
+                        "version": "0.1"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "1.1",
+            "install_timestamp": 1791796188,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://alexanderbrevig.com"
+                    },
+                    "name": "Alexander Brevig"
+                },
+                "description": "A KiCAD adoptation of the Gruvbox theme",
+                "description_full": "Gruvbox is a popular theme. Gruvbox all the things!",
+                "identifier": "com.github.alexanderbrevig.kicad-gruvbox-theme",
+                "license": "MIT",
+                "maintainer": {
+                    "contact": {
+                        "web": "https://alexanderbrevig.com"
+                    },
+                    "name": "Alexander Brevig"
+                },
+                "name": "Gruvbox",
+                "resources": {
+                    "homepage": "https://github.com/alexanderbrevig/kicad-gruvbox-theme"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "637ea8efe153cc64380c7e8bf78b92d65f80c901c234dc4d0229cf8dc55b94df",
+                        "download_size": 12915,
+                        "download_url": "https://github.com/AlexanderBrevig/kicad-gruvbox-theme/releases/download/v1.1/Gruvbox_v1.1.zip",
+                        "install_size": 21285,
+                        "kicad_version": "6",
+                        "status": "stable",
+                        "version": "1.1"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "5.3.0",
+            "install_timestamp": 1791796188,
+            "package": {
+                "author": {
+                    "contact": {
+                        "github": "https://github.com/bennymeg"
+                    },
+                    "name": "Benny Megidish"
+                },
+                "description": "JLC PCB fabrication toolkit\nAutomate PCB fabrication process in conjunction with JLC PCB",
+                "description_full": "Toolkit for automating PCB fabrication process with KiCad and JLC PCB. \n\n Features: \n• Generates gerber files in correct format for production. \n• Generates BOM file in correct format for production. \n• Generates Pick and Place file in correct format for assembly. \n• Automatic and manual component translations. \n• Many more unique additional features. \n♥ https://github.com/sponsors/bennymeg",
+                "identifier": "com.github.bennymeg.JLC-Plugin-for-KiCad",
+                "license": "Apache-2.0",
+                "maintainer": {
+                    "contact": {
+                        "github": "https://github.com/bennymeg"
+                    },
+                    "name": "Benny Megidish"
+                },
+                "name": "Fabrication Toolkit",
+                "resources": {
+                    "Sponsor": "https://github.com/sponsors/bennymeg",
+                    "homepage": "https://github.com/bennymeg/JLC-Plugin-for-KiCad"
+                },
+                "tags": [
+                    "jlc",
+                    "production",
+                    "fabrication",
+                    "toolkit"
+                ],
+                "type": "plugin",
+                "versions": [
+                    {
+                        "download_sha256": "70fe1ecc4858c5c44a3aedb6eafff80515e7837e48921c983c6fb2d8b19d9938",
+                        "download_size": 21723,
+                        "download_url": "https://github.com/bennymeg/Fabrication-Toolkit/releases/download/v5.3.0/Fabrication-Toolkit-5.3.0.zip",
+                        "install_size": 59132,
+                        "kicad_version": "6.00",
+                        "status": "stable",
+                        "version": "5.3.0"
+                    },
+                    {
+                        "download_sha256": "2285113715d24d6e581ee1bee4c8e2fd92ad92bc72737e1dd05f7c05210e0e67",
+                        "download_size": 17732,
+                        "download_url": "https://github.com/bennymeg/JLC-Plugin-for-KiCad/releases/download/4.5.0/JLC-Plugin-for-KiCad-4.5.0.zip",
+                        "install_size": 44106,
+                        "kicad_version": "6.00",
+                        "status": "stable",
+                        "version": "4.5.0"
+                    }
+                ]
+            },
+            "pinned": true,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "1.0.1",
+            "install_timestamp": 1792338227,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://github.com/clovergit"
+                    },
+                    "name": "CloverGit"
+                },
+                "description": "A theme that is rich in technology, Inspired by Altium Circuit Studio",
+                "description_full": "Designed by @CloverGit, Inspired by Altium Circuit Studio.\n Read more at https://github.com/clovergit/kicad-theme-skyline",
+                "identifier": "com.github.clovergit.kicad-theme-skyline",
+                "license": "MIT",
+                "maintainer": {
+                    "contact": {
+                        "web": "https://github.com/clovergit"
+                    },
+                    "name": "CloverGit"
+                },
+                "name": "Skyline",
+                "resources": {
+                    "Github": "https://github.com/clovergit/kicad-theme-skyline"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "7525662df15bb60a26cacef26fe4effc6e7bd4ae18578cafd8fac0713c88db3d",
+                        "download_size": 10462,
+                        "download_url": "https://github.com/clovergit/kicad-theme-skyline/releases/download/v1.0.1/kicad-theme-skyline.zip",
+                        "install_size": 16183,
+                        "kicad_version": "7.0",
+                        "status": "stable",
+                        "version": "1.0.1"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "3.0.3",
+            "install_timestamp": 1791796188,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://github.com/jOaSbA"
+                    },
+                    "name": "jOaSbA"
+                },
+                "description": "Stitch copper zones together with a grid of vias on a chosen net",
+                "description_full": "Fills the overlap of a net's copper zones (for example the top and bottom GND pours) with a grid of stitching vias, on whichever two copper layers you pick.\n\nWorks on KiCad 6 and later. There are two builds, and the Plugin and Content Manager installs whichever one your KiCad runs.\n\nFeatures:\n- Through, Micro, Blind, Buried, and Blind/Buried via types, on any layer pair.\n- A live preview in the dialog: every via at its real size, on the copper it stitches, redrawn as you change the settings.\n- Hexagonal, square, or staggered patterns, with configurable diameter, drill, and spacing.\n- X/Y offset for stitching more than one pattern onto the same area without overlap.\n- Automatically avoids other nets' tracks, pads, zones, and existing holes, with proper clearances.\n- Select an existing via to clone its settings, or let the dialog remember your last run.\n- Placed vias are grouped together, and Reset last run deletes a whole run as a set.\n- Dialog follows KiCad's own configured UI language: English, Dutch, German, French, or Chinese (Simplified).",
+                "identifier": "com.github.jOaSbA.via-stitching",
+                "license": "GPL-3.0",
+                "name": "Via Stitching",
+                "resources": {
+                    "Bug Tracker": "https://github.com/jOaSbA/via-stitching/issues",
+                    "Homepage": "https://github.com/jOaSbA/via-stitching"
+                },
+                "tags": [
+                    "via",
+                    "stitching",
+                    "ground",
+                    "plane",
+                    "zone"
+                ],
+                "type": "plugin",
+                "versions": [
+                    {
+                        "download_sha256": "d36440bdc77774225e7e29d8d22564aeb4bdd15319aefe2a27a48cf7de071c28",
+                        "download_size": 69129,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v4.0.0/via-stitching-4.0.0.zip",
+                        "install_size": 169880,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "4.0.0"
+                    },
+                    {
+                        "download_sha256": "5101f09451a396e960b9f4b498e9ea220d4a0b138d2b307b861827e55a9b0192",
+                        "download_size": 62305,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v3.0.3/via-stitching-3.0.3.zip",
+                        "install_size": 151153,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "3.0.3"
+                    },
+                    {
+                        "download_sha256": "ebbb9e07efdae4337cd2916761cfd43e7ca7ded6291ef24f4f531eec78796d58",
+                        "download_size": 57099,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v3.0.2/via-stitching-3.0.2.zip",
+                        "install_size": 139022,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "3.0.2"
+                    },
+                    {
+                        "download_sha256": "02e8fa1604de469e5e08244cc1fadf1104befa1309b5aa907bde974493bafe7e",
+                        "download_size": 56603,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v3.0.1/via-stitching-3.0.1.zip",
+                        "install_size": 137610,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "3.0.1"
+                    },
+                    {
+                        "download_sha256": "f15fa89d3b48157683d8420e9549cbf17e9002532142e02f19a544d21a96df2a",
+                        "download_size": 56162,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v3.0.0/via-stitching-3.0.0.zip",
+                        "install_size": 136694,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "3.0.0"
+                    },
+                    {
+                        "download_sha256": "bb5f423b06e4d97597c1b1e4ae2a64922f4df58e294c5d9f5fec1c105157ac21",
+                        "download_size": 39564,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v2.1.0/via-stitching-2.1.0.zip",
+                        "install_size": 93641,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "2.1.0"
+                    },
+                    {
+                        "download_sha256": "12910d1dc0c41562c2c92ea3a7e441d1d60d99a199c5f0cf9f9e0cb5858a80b4",
+                        "download_size": 37845,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v2.0.0/via-stitching-2.0.0.zip",
+                        "install_size": 85850,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "2.0.0"
+                    },
+                    {
+                        "download_sha256": "62004c710e8ded76dd02bf98ea4bca78bb9244558ed5e68dcbbcd8683f1e76f4",
+                        "download_size": 57542,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v4.0.0/via-stitching-swig-1.3.0.zip",
+                        "install_size": 144521,
+                        "kicad_version": "6.0",
+                        "kicad_version_max": "9.0",
+                        "runtime": "swig",
+                        "status": "stable",
+                        "version": "1.3.0"
+                    },
+                    {
+                        "download_sha256": "23dccb64372523386c1d033261059e2ebdaf2f29f74223decc3257f923291b35",
+                        "download_size": 50614,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v3.0.3/via-stitching-swig-1.2.2.zip",
+                        "install_size": 125395,
+                        "kicad_version": "6.0",
+                        "kicad_version_max": "9.0",
+                        "runtime": "swig",
+                        "status": "stable",
+                        "version": "1.2.2"
+                    },
+                    {
+                        "download_sha256": "8143d34232b19d2dbda7db6bd645f84a2e7e1951577c08c40b83588678f236a7",
+                        "download_size": 45270,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v3.0.2/via-stitching-swig-1.2.1.zip",
+                        "install_size": 112884,
+                        "kicad_version": "6.0",
+                        "kicad_version_max": "9.0",
+                        "runtime": "swig",
+                        "status": "stable",
+                        "version": "1.2.1"
+                    },
+                    {
+                        "download_sha256": "57adc03cb129537892be405aac13bc39903152843439382783ffc504a131a0f0",
+                        "download_size": 44608,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v3.0.1/via-stitching-swig-1.2.0.zip",
+                        "install_size": 110924,
+                        "kicad_version": "6.0",
+                        "kicad_version_max": "9.0",
+                        "runtime": "swig",
+                        "status": "stable",
+                        "version": "1.2.0"
+                    },
+                    {
+                        "download_sha256": "0bd8916d1c75e8565c55615964313f290daa24f2a9c9b64306b9b4283ca4a67a",
+                        "download_size": 28773,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v1.1.0/via-stitching-1.1.0.zip",
+                        "install_size": 55323,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "1.1.0"
+                    },
+                    {
+                        "download_sha256": "ed0fde709f8d20e7f307de0cab713ce30b9c7c3f0e9549a0c85dd7abeb24b0c7",
+                        "download_size": 24088,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v1.0.2/via-stitching-1.0.2.zip",
+                        "install_size": 39803,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "1.0.2"
+                    },
+                    {
+                        "download_sha256": "4fcb6443eb8a392674d820698a40b9392ddf9762b2a2a8c4184ac9ceeab6b55c",
+                        "download_size": 23710,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v1.0.1/via-stitching-1.0.1.zip",
+                        "install_size": 39158,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "1.0.1"
+                    },
+                    {
+                        "download_sha256": "b1d1ee51d93961c60c1999a8a3650bf74821d028ad28bfc02247997afe1cf2c9",
+                        "download_size": 21870,
+                        "download_url": "https://github.com/jOaSbA/via-stitching/releases/download/v1.0.0/via-stitching-1.0.0.zip",
+                        "install_size": 33877,
+                        "kicad_version": "10.0",
+                        "runtime": "ipc",
+                        "status": "stable",
+                        "version": "1.0.0"
+                    }
+                ]
+            },
+            "pinned": true,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "1.2",
+            "install_timestamp": 1792338228,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://github.com/pointhi/kicad-color-schemes/"
+                    },
+                    "name": "Thomas Pointhuber"
+                },
+                "description": "Based on Solarized colorscheme from Ethan Schoonover",
+                "description_full": "Based on Solarized colorscheme from Ethan Schoonover.\nSee https://ethanschoonover.com/solarized/ for more details.",
+                "identifier": "com.github.pointhi.kicad-color-schemes.solarized-dark",
+                "license": "CC0-1.0",
+                "maintainer": {
+                    "contact": {
+                        "web": "https://github.com/pointhi/kicad-color-schemes/"
+                    },
+                    "name": "Thomas Pointhuber"
+                },
+                "name": "Solarized Dark Theme",
+                "resources": {
+                    "Github": "https://github.com/pointhi/kicad-color-schemes"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "7870a3560e9ba112b3bad342d457730bc9c65e787af87d0c55f6fad544a0532c",
+                        "download_size": 4395,
+                        "download_url": "https://github.com/pointhi/kicad-color-schemes/releases/download/2021-12-05/com.github.pointhi.kicad-color-schemes.solarized-dark_v1.2_pcm.zip",
+                        "install_size": 5691,
+                        "kicad_version": "5.99",
+                        "status": "stable",
+                        "version": "1.2"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "1.0",
+            "install_timestamp": 1792338228,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://github.com/wykys"
+                    },
+                    "name": "Jan Vykydal"
+                },
+                "description": "Designed by wykys, Inspired by One Dark",
+                "description_full": "Designed by wykys, Inspired by One Dark",
+                "identifier": "com.github.pointhi.kicad-color-schemes.wdark",
+                "license": "CC0-1.0",
+                "maintainer": {
+                    "contact": {
+                        "web": "https://github.com/pointhi/kicad-color-schemes/"
+                    },
+                    "name": "Thomas Pointhuber"
+                },
+                "name": "wDark Theme",
+                "resources": {
+                    "Github": "https://github.com/pointhi/kicad-color-schemes"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "9e58f7e6032dd40221dc80817dc992f233eba1858d590104c3445d41abcc136a",
+                        "download_size": 4289,
+                        "download_url": "https://github.com/pointhi/kicad-color-schemes/releases/download/2021-12-05/com.github.pointhi.kicad-color-schemes.wdark_v1.0_pcm.zip",
+                        "install_size": 5490,
+                        "kicad_version": "5.99",
+                        "status": "stable",
+                        "version": "1.0"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "1.0.0",
+            "install_timestamp": 1792338227,
+            "package": {
+                "author": {
+                    "contact": {
+                        "web": "https://github.com/maximekahn"
+                    },
+                    "name": "Maxime Kahn"
+                },
+                "description": "Dark theme for Schematic, PCB and Footprint Editor.",
+                "description_full": "KiCadMaxColors theme for KiCad. Unified dark palette (background #1e1e1e) for schematic/symbol editor (eeschema), PCB editor (pcbnew) and footprint editor (fpedit) with consistent colors across all editors.",
+                "identifier": "com.maximekahn.kicadmaxcolors",
+                "license": "CC0-1.0",
+                "maintainer": {
+                    "contact": {
+                        "web": "https://github.com/maximekahn"
+                    },
+                    "name": "Maxime Kahn"
+                },
+                "name": "KiCadMaxColors",
+                "resources": {
+                    "homepage": "https://github.com/maximekahn/KiCadMaxColors"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "1c688f977f3f2935fe55926631798dec72fef5b2bfd4df38081fe9e7c74724d7",
+                        "download_size": 1550,
+                        "download_url": "https://github.com/maximekahn/KiCadMaxColors/releases/download/1.0.0/kicadmaxcolors_1.0.0.zip",
+                        "install_size": 6643,
+                        "kicad_version": "6.0",
+                        "status": "stable",
+                        "version": "1.0.0"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "2024.02.25",
+            "install_timestamp": 1792338226,
+            "package": {
+                "author": {
+                    "contact": {
+                        "github": "https://github.com/lethalbit",
+                        "mastodon": "https://chaos.social/@lethalbit",
+                        "website": "https://lethalbit.net"
+                    },
+                    "name": "Aki Van Ness"
+                },
+                "description": "A dark and vibrant color scheme by @lethalbit",
+                "description_full": "A dark and vibrant color scheme by @lethalbit",
+                "identifier": "net.lethalbit.arcana",
+                "license": "CC-BY-NC-SA-4.0",
+                "maintainer": {
+                    "contact": {
+                        "github": "https://github.com/lethalbit",
+                        "mastodon": "https://chaos.social/@lethalbit",
+                        "website": "https://lethalbit.net"
+                    },
+                    "name": "Aki Van Ness"
+                },
+                "name": "Arcana",
+                "resources": {
+                    "github": "https://github.com/lethalbit/arcana-kicad"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "1a1b0030cc8f5b60d2b8a680d9dbc34b0ea697f12eed47744c93956f70a047fb",
+                        "download_size": 13283,
+                        "download_url": "https://github.com/lethalbit/arcana-kicad/releases/download/2024.02.25/kicad-arcana.zip",
+                        "install_size": 20337,
+                        "kicad_version": "7.0",
+                        "status": "stable",
+                        "version": "2024.02.25"
+                    },
+                    {
+                        "download_sha256": "a1192841d2a273df686bf97bcea5fff38f1ee7eaa84269403d42b124b8caaa05",
+                        "download_size": 13029,
+                        "download_url": "https://github.com/lethalbit/arcana-kicad/releases/download/2023.11.21/kicad-arcana.zip",
+                        "install_size": 20206,
+                        "kicad_version": "7.0",
+                        "status": "stable",
+                        "version": "2023.11.21"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
+            "current_version": "2025.09.26",
+            "install_timestamp": 1792338227,
+            "package": {
+                "author": {
+                    "contact": {
+                        "github": "https://github.com/dragonmux"
+                    },
+                    "name": "Rachel Mant"
+                },
+                "description": "dragonmux' dark theme",
+                "description_full": "A dark theme designed by dragonmux",
+                "identifier": "network.dragonmux.dragonmux",
+                "license": "CC0-1.0",
+                "maintainer": {
+                    "contact": {
+                        "github": "https://github.com/dragonmux"
+                    },
+                    "name": "Rachel Mant"
+                },
+                "name": "dragonmux (Dark)",
+                "resources": {
+                    "GitHub": "https://github.com/dragonmux/kicad-dragonmux-theme"
+                },
+                "type": "colortheme",
+                "versions": [
+                    {
+                        "download_sha256": "a30dbbc9a169371995e262c44bdd787ce6f66f26790f717d53f754782be578f8",
+                        "download_size": 7332,
+                        "download_url": "https://github.com/dragonmux/kicad-dragonmux-theme/releases/download/2025.09.26/kicad-dragonmux-theme.zip",
+                        "install_size": 13185,
+                        "kicad_version": "9.0",
+                        "status": "stable",
+                        "version": "2025.09.26"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        }
+    ]
+}

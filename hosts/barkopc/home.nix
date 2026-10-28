@@ -5,6 +5,9 @@ let
     configs = {
         nvim = "nvim";
 	ghostty = "ghostty";
+	niri = "niri";
+	noctalia = "noctalia";
+	kicad = "kicad";
     };
 in
 {
